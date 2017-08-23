@@ -1,0 +1,38 @@
+/*  parallax.css */
+
+#first {
+    background: url(../img/img3.jpg) 50% 0 no-repeat fixed;
+    height: 500px;
+}
+
+#second, #container{
+    background-color: white;
+    height: 400px;
+
+}
+
+#third{
+    background: url(../img/img2.jpg) 50% 0 no-repeat fixed;
+    height: 400px;
+}
+.background{
+    height: 960px;
+    margin: 0 auto;
+    position:relative;
+}
+
+.content{
+    margin: 0 auto;
+    text-align: center;
+    top: 150px;
+    position: absolute;
+    width: 100%;
+    font-size:30pt;
+    color:black;
+    font-weight:bold;
+}
+
+.logo {
+    height:90%;
+    width:90%;
+}
