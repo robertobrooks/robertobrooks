@@ -38,13 +38,11 @@
 }
 
 .transparent {
-    /*background: rgba(0,0,0,0.5);*/
-    background: rgba(245, 245, 245, 0.4);
+    background-color: rgba(245, 245, 245, 0.4);
   }
 
 .well {
-      /*background: rgba(0,0,0,0.5);*/
-      background: rgba(245, 245, 245, 0.4);
+    background-color: RGBA(245, 245, 245, 0.4);
 }
 
 /*.navbar-right {
